@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = server
+build_property.ProjectDir = C:\Users\thisi\Desktop\saving-card-without-payment-main\server\dotnet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
